@@ -232,27 +232,20 @@ Insurance-Fraud-Detection/
 
 ---
 
-## 📷 Dashboard Preview
-
-Add screenshots of your Power BI dashboard here.
-
-Example:
-
-![Dashboard Overview](images/dashboard_overview.png)
 
 ---
 
 ## 👨‍💻 Author
 
-**Rakhi Puligoti**
+**Raja Sekhar Puligoti**
 
 **Data Analyst | Power BI | SQL | Python | Advanced Excel | Business Intelligence**
 
 📧 Email: your-email@example.com
 
-💼 LinkedIn: https://www.linkedin.com/in/your-profile
+💼 LinkedIn: [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/raja-sekhar-puligoti-a10965265/)
 
-💻 GitHub: https://github.com/your-username
+💻 GitHub: [https://github.com/your-username](https://github.com/Rajasekhar0609)
 
 ---
 
